@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    /* font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal; */
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #080808;
+    color: whitesmoke;
+    padding: 20px;
+}
+
+.details {
+    color: rgb(114, 105, 105);
+    font-size: large;
+}
