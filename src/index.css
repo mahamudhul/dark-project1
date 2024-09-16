@@ -18,3 +18,11 @@ body {
     color: rgb(114, 105, 105);
     font-size: large;
 }
+
+.foDetails {
+    color: rgba(78, 79, 79, 0.712)
+}
+
+/* .foDetails:hover {
+    color: rgba(133, 19, 45, 0.922);
+} */
